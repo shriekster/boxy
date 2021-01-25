@@ -1,0 +1,20 @@
+{
+  "short_name": "Boxy",
+  "name": "Boxy",
+  "icons": [
+    {
+      "src": "boxy.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "boxy256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
