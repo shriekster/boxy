@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/boxy/static/css/main.a5efd48f.chunk.css",
+    "main.css": "/boxy/static/css/main.10523b9e.chunk.css",
     "main.js": "/boxy/static/js/main.6346aa72.chunk.js",
     "main.js.map": "/boxy/static/js/main.6346aa72.chunk.js.map",
     "runtime-main.js": "/boxy/static/js/runtime-main.5577b3a9.js",
@@ -8,7 +8,7 @@
     "static/js/2.6a24be6b.chunk.js": "/boxy/static/js/2.6a24be6b.chunk.js",
     "static/js/2.6a24be6b.chunk.js.map": "/boxy/static/js/2.6a24be6b.chunk.js.map",
     "index.html": "/boxy/index.html",
-    "static/css/main.a5efd48f.chunk.css.map": "/boxy/static/css/main.a5efd48f.chunk.css.map",
+    "static/css/main.10523b9e.chunk.css.map": "/boxy/static/css/main.10523b9e.chunk.css.map",
     "static/js/2.6a24be6b.chunk.js.LICENSE.txt": "/boxy/static/js/2.6a24be6b.chunk.js.LICENSE.txt",
     "static/media/style.css": "/boxy/static/media/Ubuntu-Regular.fbdecfce.ttf",
     "static/media/boxy.26d702a8.svg": "/boxy/static/media/boxy.26d702a8.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.5577b3a9.js",
     "static/js/2.6a24be6b.chunk.js",
-    "static/css/main.a5efd48f.chunk.css",
+    "static/css/main.10523b9e.chunk.css",
     "static/js/main.6346aa72.chunk.js"
   ]
 }
